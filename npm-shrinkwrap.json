@@ -3207,7 +3207,7 @@
         },
         "glob": {
           "version": "4.5.3",
-          "from": "https://registry.npmjs.org/glob/-/glob-4.5.3.tgz",
+          "from": "glob@>=4.3.1 <5.0.0",
           "resolved": "https://registry.npmjs.org/glob/-/glob-4.5.3.tgz",
           "dependencies": {
             "inflight": {
@@ -5963,7 +5963,7 @@
             },
             "once": {
               "version": "1.3.2",
-              "from": "once@>=1.0.0 <2.0.0",
+              "from": "https://registry.npmjs.org/once/-/once-1.3.2.tgz",
               "resolved": "https://registry.npmjs.org/once/-/once-1.3.2.tgz",
               "dependencies": {
                 "wrappy": {
